@@ -1,0 +1,30 @@
+header {
+        display: flex;
+        justify-content: center;
+        color:forestgreen;
+        font-size: 32px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 08px;
+    border: 1px solid black;
+}
+
+div {
+    margin: 40px;
+}
+
+button{
+    background-color: darkgreen;
+}
+
+body{
+    background-color: whitesmoke;
+}

@@ -1,0 +1,9 @@
+- a tag <img> vai pedir o caminho da nossa imagem para renderizá-la no site
+- para puxarmos uma pasta é só colocar ctrl + espaço e depois digitar / e o nome da pasta
+- alt da img: texto alternativo caso a imagem não renderize
+- div, main, header, footer não aparecem na tela a não ser que você coloque coisas nela
+- link css e o href é o direcionamento (e o rel é o tipo de arquivo que estamos colocando no link)
+- usamos o style.css para definir os estilos 
+    -   display: flex;
+        justify-content: center;
+        serve para deixar a tag no centro
